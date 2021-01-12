@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3540D610-CBC1-E541-ADC9-3337CB6145AD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/EncounterTrigger.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/ZombieSpawner.cs" Line="41" Column="33" />
+      <File FileName="Assets/__Scripts/Inventory.cs" />
+      <File FileName="Assets/__Scripts/EncounterTrigger.cs" Line="13" Column="19" />
+      <File FileName="Assets/__Scripts/MenuOnClick.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopDownShooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="__Scripts" expanded="True">
+                <Node name="EncounterTrigger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c5c8ff48-65f9-4269-843a-2dacf437ce4f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
